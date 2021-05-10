@@ -66,7 +66,7 @@
 <img align="left" alt="Android" title="Android" width="26px" src="https://raw.githubusercontent.com/krishnasharma5547/krishnasharma5547/main/iconfinder_android_317758.png" />
 <img align="left" alt="html5" title="HTML5" width="26px" src="https://github.com/krishnasharma5547/krishnasharma5547/blob/main/html.png" />
 <img align="left" alt="IOT" title="IOT" width="26px" src="https://github.com/krishnasharma5547/krishnasharma5547/blob/main/icons8-device-manager-50.png" />
-<img align="left" alt="firebase" title="Firebase" width="26px" src="https://github.com/krishnasharma5547/krishnasharma5547/blob/main/icons8-google-firebase-console-48.png" />
+<img align="left" alt="firebase" title="Firebase" width="26px" src="https://github.com/krishnasharma5547/krishnasharma5547/blob/master/icons8-google-firebase-console-48.png/>
 <img align="left" alt="security" title="Security" width="26px" src="https://github.com/krishnasharma5547/krishnasharma5547/blob/main/icons8-security-time-50.png" />
 <img align="left" alt="SQL" title="SQL" width="26px" src="https://github.com/krishnasharma5547/krishnasharma5547/blob/main/icons8-sql-64.png" />
 <img align="left" alt="css3" title="CSS3" width="26px" src="https://github.com/krishnasharma5547/krishnasharma5547/blob/main/css.png" />
