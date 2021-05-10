@@ -54,7 +54,8 @@
 </a>                                                                                                                                                                             <a href="https://www.instagram.com/krishna_sharma_5547/" target="_blank">
   <img align="left" alt="krishnasharma5547 | Instagram" title="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg">
 </a>
-
+<br>
+<br>
 ### Languages and Tools:
 
 <img align="left" alt="GitHub" title="Github" width="26px" src="https://github.com/krishnasharma5547/krishnasharma5547/blob/master/icons8-github-48.png" />
