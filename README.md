@@ -59,7 +59,7 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="GitHub" title="Github" width="26px" src="https://github.com/krishnasharma5547/krishnasharma5547/master/icons8-github-48.png" />
+<img align="left" alt="GitHub" title="Github" width="26px" src="https://github.com/krishnasharma5547/krishnasharma5547/blob/master/icons8-github-48.png" />
 <img align="left" alt="Git" title="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="python" title="Python" width="26px" src="https://github.com/krishnasharma5547/krishnasharma5547/blob/master/download.jpg" />
 <img align="left" alt="java" title="Java" width="26px" src="https://github.com/krishnasharma5547/krishnasharma5547/blob/master/java.png" />
@@ -70,7 +70,7 @@
 <img align="left" alt="security" title="Security" width="26px" src="https://github.com/krishnasharma5547/krishnasharma5547/blob/master/icons8-security-time-50.png" />
 <img align="left" alt="SQL" title="SQL" width="26px" src="https://github.com/krishnasharma5547/krishnasharma5547/blob/master/icons8-sql-64.png" />
 <img align="left" alt="css3" title="CSS3" width="26px" src="https://github.com/krishnasharma5547/krishnasharma5547/blob/master/css.png" />
-<img align="left" alt="bootstrap" title="Bootstrap" width="26px" src="https://github.com/krishnasharma5547/krishnasharma5547/blob/main/bootstrap.png" />
+<img align="left" alt="bootstrap" title="Bootstrap" width="26px" src="https://github.com/krishnasharma5547/krishnasharma5547/blob/master/bootstrap.png" />
 <img align="left" alt="Django" title="Django" width="26px" src="https://github.com/krishnasharma5547/krishnasharma5547/blob/master/django.png" />
 <img align="left" alt="mongo" title="Mongo-db" width="26px" src="https://github.com/krishnasharma5547/krishnasharma5547/blob/master/mongo.png" />
 
