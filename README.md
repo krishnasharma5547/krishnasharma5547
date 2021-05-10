@@ -35,6 +35,7 @@
 
 <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnasharma5547&layout=compact&hide=html&hide_border=true,issues&theme=gruvbox" alt="krishnasharma5547" />
+<br />
 <img align="leftr" src="https://github-readme-stats.vercel.app/api?username=krishnasharma5547&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="krishnasharma5547 Github Stats">
 <br />
 <br />
@@ -54,10 +55,9 @@
   <img align="left" alt="krishnasharma5547 | Instagram" title="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg">
 </a>
 <br>
-<br>
 ### Languages and Tools:
 
-<img style="margin-top:5px" align="left" alt="GitHub" title="Github" width="26px" src="https://github.com/krishnasharma5547/krishnasharma5547/blob/master/icons8-github-48.png" />
+<img align="left" alt="GitHub" title="Github" width="26px" src="https://github.com/krishnasharma5547/krishnasharma5547/blob/master/icons8-github-48.png" />
 <img align="left" alt="Git" title="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="python" title="Python" width="26px" src="https://github.com/krishnasharma5547/krishnasharma5547/blob/master/download.jpg" />
 <img align="left" alt="java" title="Java" width="26px" src="https://github.com/krishnasharma5547/krishnasharma5547/blob/master/java.png" />
