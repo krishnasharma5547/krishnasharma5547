@@ -20,13 +20,13 @@
 
 - 🌱 I’m currently learning **everything 🤣**
 
-- 👯 I’m looking to collaborate with **with other content creators**
+- 👯 I’m looking to collaborate with **other content creators**
 
 - 🤔 I’m looking for help with **learning anything new!**
 
 - 🔭 I’m currently working on **my Skills**
 
-- 💬 Ask me about **Code Queries only**
+- 💬 Ask me about **Code only**
 
 - 📫 How to reach me **kksharmaz786@gmail.com**
 
