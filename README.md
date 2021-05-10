@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Krishna Kant Sharma  👋</h1>
-<h2 align="left">:-<br><br></h2>
+<h2 align="left">:- Skills <br><br></h2>
 <h4>
 1. Python<br>
 2. Java<br>
