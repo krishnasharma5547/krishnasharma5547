@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Krishna Kant Sharma  👋</h1>
-<h2 align="left">:- Skills <br><br></h2>
+<h2 align="left">:- Skills <br></h2>
 <h4>
 1. Python<br>
 2. Java<br>
@@ -30,7 +30,7 @@
 
 - 📫 How to reach me **kksharmaz786@gmail.com**
 
-- ⚡ Fun fact  Programmers start count from 0
+- ⚡ Fun fact  **Programmers start count from 0**
 
 
 <br>
@@ -54,8 +54,6 @@
 </a>                                                                                                                                                                             <a href="https://www.instagram.com/krishna_sharma_5547/" target="_blank">
   <img align="left" alt="krishnasharma5547 | Instagram" title="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg">
 </a>
-<br />
-<br />
 
 ### Languages and Tools:
 
