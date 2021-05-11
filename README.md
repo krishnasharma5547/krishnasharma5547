@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Krishna Kant Sharma  👋</h1>
-<h2 align="left">:- Skills <br></h2>
+<h2 align="left">:-Technologies && Skills <br></h2>
 <h4>
 1. Python<br>
 2. Java<br>
@@ -30,7 +30,7 @@
 
 - 📫 How to reach me **kksharmaz786@gmail.com**
 
-- ⚡ Fun fact  **Programmers start count from 0**
+- ⚡ Fun fact  **Programmers start count from 0🤣**
 
 
 <br>
