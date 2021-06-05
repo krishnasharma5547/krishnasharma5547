@@ -3,7 +3,7 @@
 <h4>
 1. Python<br>
 2. Java<br>
-3. Web FrontEnd Technologies (HTML, CSS, JavaScript, Bootstrap, ReactJs) <br>
+3. Web FrontEnd Technologies (HTML, CSS, Tailwind, JavaScript, Bootstrap, ReactJs) <br>
 4.ExpressJs<br>
 5.Django<br>
 6 .SQL and Mongo-db<br> 
