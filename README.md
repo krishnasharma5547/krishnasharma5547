@@ -1,16 +1,17 @@
 <h1 align="center">Hi there, I'm Krishna Kant Sharma  👋</h1>
 <h2 align="left">:-Technologies && Skills <br></h2>
 <h4>
-1. Python<br>
-2. Java<br>
-3. Web FrontEnd Technologies (HTML, CSS, Tailwind, JavaScript, Bootstrap, ReactJs) <br>
+1. React<br>
+2. Node JS<br>
+3. HTML, CSS
 4.ExpressJs<br>
-5.Django<br>
-6 .SQL and Mongo-db<br> 
-7.Data structures and algorithms<br>
-8.Firebase<br>
-9.Internet of things<br>
-10.Git and Github
+5.Mobx<br>
+6. Redux <br>
+7 .SQL and Mongo-db<br> 
+8.Data structures and algorithms<br>
+9.AWS<br>
+10.Internet of things<br>
+11.Git and Github
 </h4>
 
 
