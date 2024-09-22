@@ -19,19 +19,10 @@
 
 <img align="right" alt="GIF" src="https://media1.giphy.com/media/p4NLw3I4U0idi/200.webp?cid=ecf05e47ut5pr45pj9m7x00dco0dgwmqq1so04zmjkqx6daz&rid=200.webp" width="400px" />
 
-- 🌱 I’m currently learning **everything 🤣**
 
 - 👯 I’m looking to collaborate with **other content creators**
 
-- 🤔 I’m looking for help with **learning anything new!**
-
-- 🔭 I’m currently working on **my Skills**
-
-- 💬 Ask me about **Code only**
-
 - 📫 How to reach me **kksharmaz786@gmail.com**
-
-- ⚡ Fun fact  **Programmers start count from 0🤣**
 
 
 <br>
